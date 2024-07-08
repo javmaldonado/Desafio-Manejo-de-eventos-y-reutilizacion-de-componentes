@@ -1,24 +1,13 @@
-# manejo-de-evento
+## Manejo de eventos y reutilización de componentes.
 
-## Project setup
-```
-npm install
-```
+Este codigo permite:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1. Utilizar los eventos y las modificadores para agregar interacciones en la aplicación.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+2. Reutilizar componentes para el ahorro de tiempo en el desarrollo de una aplicación.
 
-### Lints and fixes files
-```
-npm run lint
-```
+3. Hacer uso de las props para el paso de datos a componentes hijos.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+4. Cambiar los estilos de elementos a partir de eventos emitidos por el usuario.
+
+5. Comunicar componentes hijos con su padre a través de la emisión de eventos.
