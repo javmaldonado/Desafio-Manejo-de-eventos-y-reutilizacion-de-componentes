@@ -11,3 +11,8 @@ Este codigo permite:
 4. Cambiar los estilos de elementos a partir de eventos emitidos por el usuario.
 
 5. Comunicar componentes hijos con su padre a través de la emisión de eventos.
+
+
+Deploy:
+https://desafio-manejo-de-eventos-y-reutilizacion-de-componentes.vercel.app/
+(aún no me sale los de gh-pages)
