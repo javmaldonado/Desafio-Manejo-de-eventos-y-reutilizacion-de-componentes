@@ -53,7 +53,7 @@ body {
 }
 
 .citas-container {
-  display: flex;
+  display: inline-block;
   margin-top: 20px;
   gap: 20px;
 }

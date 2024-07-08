@@ -35,9 +35,9 @@ export default {
     border-radius: 5px;
     margin-bottom: 10px;
     display: inline-block;
-    justify-content: row;
-    width: 15%;
-
+    gap: 20px;
+    margin:10px;
+    
 }
 
 .buttonEliminar {
